@@ -1,4 +1,4 @@
-### Hi there 👋
+Projeto educacional de Matemática e Computação.
 
 <!--
 **mathcodebr/mathcodebr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
